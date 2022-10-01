@@ -1,5 +1,5 @@
 # Mechanically
-modpacks for Satisfactory experimental update
+modpacks for Satisfactory 6  
 Use SMM
 
 ## Modpacks
